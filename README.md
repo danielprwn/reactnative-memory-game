@@ -5,13 +5,13 @@
 ✔ Reset Game.
 
 
-## Technologies ✅ CSS ⚛ React Native ✅ Firebase ✅ Expo
+## Technologies ✅ CSS ⚛ React Native ✅ Expo
 
 Download the repository and run it locally:
 
 ### `npm install`
 
-### `npm start`
+### `expo start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
