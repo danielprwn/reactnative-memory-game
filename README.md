@@ -1,8 +1,8 @@
 # React Native Memory Game App. 
 
-✔ Instagram singup and singin pages.
-✔ Viewing Instagram Likes.
-✔ Likes posts.
+✔ Find the same items.
+✔ Collect points.
+✔ Reset Game.
 
 
 ## Technologies ✅ CSS ⚛ React Native ✅ Firebase ✅ Expo
