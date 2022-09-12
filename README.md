@@ -1,17 +1,23 @@
-> Why do I have a folder named ".expo" in my project?
+# React Native Memory Game App. 
 
-The ".expo" folder is created when an Expo project is started using "expo start" command.
+✔ Instagram singup and singin pages.
+✔ Viewing Instagram Likes.
+✔ Likes posts.
 
-> What does the "packager-info.json" file contain?
 
-The "packager-info.json" file contains port numbers and process PIDs that are used to serve the application to the mobile device/simulator.
+## Technologies ✅ CSS ⚛ React Native ✅ Firebase ✅ Expo
 
-> What does the "settings.json" file contain?
+Download the repository and run it locally:
 
-The "settings.json" file contains the server configuration that is used to serve the application manifest.
+### `npm install`
 
-> Should I commit the ".expo" folder?
+### `npm start`
 
-No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+Apllication screenshoots.
+
+![Zrzut ekranu 2022-09-12 141944](https://user-images.githubusercontent.com/92208474/189654943-df2bb538-c015-4fe2-a7f8-55aa126ccd32.jpg)
+
+![Zrzut ekranu 2022-09-12 142009](https://user-images.githubusercontent.com/92208474/189654954-5a67f3af-f0e3-4800-bc19-87da64d99575.jpg)
